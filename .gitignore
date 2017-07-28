@@ -35,3 +35,5 @@ build/
 *.DotSettings
 *.vshost.*
 /.vs
+
+src/\.idea/
